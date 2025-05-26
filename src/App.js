@@ -16,7 +16,8 @@ if (currentTime < 12) {
 function App() {
   return (
     <>
-      <h1>{greeting}</h1>
+      <h1>Hello Developer</h1>
+      <h2>{greeting}</h2>
     </>
   );
 }
